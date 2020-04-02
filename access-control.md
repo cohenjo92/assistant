@@ -28,7 +28,7 @@ subcollection: assistant
 You can give other people access to your {{site.data.keyword.conversationshort}} resources, and control the level of access they get.
 {: shortdesc}
 
-Maybe you want one development team to have access to a test assistant and another development team to have access to a production assistant. And you want data scientists to be able to view analtyics for user conversation logs from both assistants. And maybe you want a writer to be able to author the dialog that is used by your assistant to converse with your customers. To manage who can do what with your skills and assistants, you can assign different access roles to different people.
+Maybe you want one development team to have access to a test assistant and another development team to have access to a production assistant. And you want data scientists to be able to view analytics for user conversation logs from both assistants. And maybe you want a writer to be able to author the dialog that is used by your assistant to converse with your customers. To manage who can do what with your skills and assistants, you can assign different access roles to different people.
 
 ## Access control improvements
 {: #access-control-new}
